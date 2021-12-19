@@ -1,9 +1,8 @@
 const router = require('express').Router();
+const { readFile } = require('../helper/readDB');
 
 router.get('/', (req, res) => {
-    // console.info(`${req.method} request received for feedback`);
-  
-    // readFromFile('./db/feedback.json').then((data) => res.json(JSON.parse(data)));
+    return readFile('./db/db.json').then((data) => res.json(JSON.parse(data))).catch((err) => console.error(err));
   });
 
   router.post('/', (req, res) => {});
