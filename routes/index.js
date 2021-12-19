@@ -4,7 +4,7 @@ const notesRouter = require('./notesRouter');
 
 // GET Route for notes page
 router.get('/notes', (req, res) =>
-  res.sendFile(path.join(__dirname, '../public/pages/notes.html'))
+  res.sendFile(path.join(__dirname, '../public/notes.html'))
 );
 
 // notes api routes
