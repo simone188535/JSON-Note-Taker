@@ -43,7 +43,7 @@
 
 * [The URL of the deployed project.](https://github.com/simone188535/Team-Profile-Generator)
 
-* [The URL of the GitHub repository.](https://github.com/simone188535/Team-Profile-Generator)
+* [The URL of the GitHub repository.](https://github.com/simone188535/JSON-Note-Taker)
   ## Questions
 
   If you have any questions about the repo, open
