@@ -41,7 +41,7 @@
 
 ## Deployed Links
 
-* [The URL of the deployed project.](https://github.com/simone188535/Team-Profile-Generator)
+* [The URL of the deployed project.](https://frozen-tor-69384.herokuapp.com/)
 
 * [The URL of the GitHub repository.](https://github.com/simone188535/JSON-Note-Taker)
   ## Questions
